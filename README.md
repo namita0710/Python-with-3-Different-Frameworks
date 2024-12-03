@@ -1,9 +1,12 @@
 # Python-with-3-Different-Frameworks : Flask, FastAPI, and Django
 
 This repository contains the implementation of a simple to-do list application built using three popular Python web frameworks:
-- [Flask]
-- [FastAPI]
-- [Django]
+
+**- Flask**
+
+**- FastAPI**
+
+**- Django**
 
 ## 🚀 Purpose
 
